@@ -5,6 +5,7 @@
 
 # I am always looking for new opportunities to learn and grow in my field.
 
+<a href="https://www.google.com/" target="_blank">Google</a>
 
 # Thank you for visiting my profile!
 
