@@ -5,7 +5,7 @@
 
 # I am always looking for new opportunities to learn and grow in my field.
 
-<a href="[https://www.google.com/](https://www.linkedin.com/in/chen-dahan-033179241/)" target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/chen-dahan-033179241/" target="_blank">LinkedIn</a>
 
 # Thank you for visiting my profile!
 
