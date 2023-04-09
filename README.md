@@ -1,8 +1,6 @@
 
 # Hello! :smile: My name is Chen and I am a computer science student from Israel. 
 
-# I am passionate about :surfer: and have experience in C, C# and Java. 
-
 # I am always looking for new opportunities to learn and grow in my field.
 
 # You can find me:
