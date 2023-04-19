@@ -23,6 +23,7 @@
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" title="C" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
 
