@@ -1,7 +1,7 @@
 
 # Hello! :smile: My name is Chen and I am a computer science student from Israel. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChenDahan13_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChenDahan13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 # You can find me:
