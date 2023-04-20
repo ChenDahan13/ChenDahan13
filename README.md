@@ -26,7 +26,7 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
-### :fire: *My Stats :*
+### :fire: **My Stats :**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChenDahan13&theme=radical)](https://git.io/streak-stats)
 
