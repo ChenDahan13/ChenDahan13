@@ -9,14 +9,14 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
   <h1>
-   Hello
+   *Hello*
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-# My name is Chen and I am a computer science student from Israel. 
+# *My name is Chen and I am a computer science student from Israel.* 
 
-### :hammer_and_wrench: Languages :
+### :hammer_and_wrench: *Languages :*
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -26,7 +26,7 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: *My Stats :*
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChenDahan13&theme=radical)](https://git.io/streak-stats)
 
